@@ -1,0 +1,112 @@
+2023-01-04 16:50:54,629 Download url :https://ressources.data.sncf.com/api/records/1.0/search/?dataset=objets-trouves-restitution&q=&rows=10000&sort=date&facet=date&facet=gc_obo_type_c&refine.gc_obo_gare_origine_r_name=Lille+Europe&refine.date=2017
+2023-01-04 16:50:54,630 Starting new HTTPS connection (1): ressources.data.sncf.com:443
+2023-01-04 16:50:57,404 https://ressources.data.sncf.com:443 "GET /api/records/1.0/search/?dataset=objets-trouves-restitution&q=&rows=10000&sort=date&facet=date&facet=gc_obo_type_c&refine.gc_obo_gare_origine_r_name=Lille+Europe&refine.date=2017 HTTP/1.1" 200 None
+2023-01-04 16:50:59,245 4614
+2023-01-04 16:50:59,245 Download url :https://ressources.data.sncf.com/api/records/1.0/search/?dataset=objets-trouves-restitution&q=&rows=10000&sort=date&facet=date&facet=gc_obo_type_c&refine.gc_obo_gare_origine_r_name=Lille+Europe&refine.date=2018
+2023-01-04 16:50:59,246 Starting new HTTPS connection (1): ressources.data.sncf.com:443
+2023-01-04 16:51:04,148 https://ressources.data.sncf.com:443 "GET /api/records/1.0/search/?dataset=objets-trouves-restitution&q=&rows=10000&sort=date&facet=date&facet=gc_obo_type_c&refine.gc_obo_gare_origine_r_name=Lille+Europe&refine.date=2018 HTTP/1.1" 200 None
+2023-01-04 16:51:04,747 4364
+2023-01-04 16:51:04,749      gc_obo_gare_origine_r_code_uic_c                                      gc_obo_type_c gc_obo_gare_origine_r_name  ... gc_obo_nom_recordtype_sc_c                       date gc_obo_date_heure_restitution_c
+0                          0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2017-12-31T11:45:16+00:00                             NaN
+1                          0087223263       Porte-monnaie / portefeuille, argent, titres               Lille Europe  ...               Objet trouvé  2017-12-31T08:35:34+00:00                             NaN
+2                          0087223263           Pièces d'identités et papiers personnels               Lille Europe  ...               Objet trouvé  2017-12-31T08:28:26+00:00                             NaN
+3                          0087223263       Porte-monnaie / portefeuille, argent, titres               Lille Europe  ...               Objet trouvé  2017-12-31T08:05:06+00:00                             NaN
+4                          0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2017-12-31T07:58:14+00:00       2017-12-31T13:30:01+00:00
+...                               ...                                                ...                        ...  ...                        ...                        ...                             ...
+4359                       0087223263                              Vêtements, chaussures               Lille Europe  ...               Objet trouvé  2018-01-01T07:53:17+00:00                             NaN
+4360                       0087223263                 Clés, porte-clés, badge magnétique               Lille Europe  ...               Objet trouvé  2018-01-01T07:49:24+00:00                             NaN
+4361                       0087223263                                            Optique               Lille Europe  ...               Objet trouvé  2018-01-01T07:30:59+00:00                             NaN
+4362                       0087223263                Articles d'enfants, de puériculture               Lille Europe  ...               Objet trouvé  2018-01-01T07:25:27+00:00                             NaN
+4363                       0087223263  Appareils électroniques, informatiques, appare...               Lille Europe  ...               Objet trouvé  2018-01-01T07:08:45+00:00       2018-01-01T09:42:13+00:00
+
+[8978 rows x 7 columns]
+2023-01-04 16:51:04,756 Download url :https://ressources.data.sncf.com/api/records/1.0/search/?dataset=objets-trouves-restitution&q=&rows=10000&sort=date&facet=date&facet=gc_obo_type_c&refine.gc_obo_gare_origine_r_name=Lille+Europe&refine.date=2019
+2023-01-04 16:51:04,757 Starting new HTTPS connection (1): ressources.data.sncf.com:443
+2023-01-04 16:51:09,222 https://ressources.data.sncf.com:443 "GET /api/records/1.0/search/?dataset=objets-trouves-restitution&q=&rows=10000&sort=date&facet=date&facet=gc_obo_type_c&refine.gc_obo_gare_origine_r_name=Lille+Europe&refine.date=2019 HTTP/1.1" 200 None
+2023-01-04 16:51:09,322 3005
+2023-01-04 16:51:09,324      gc_obo_gare_origine_r_code_uic_c                                 gc_obo_type_c gc_obo_gare_origine_r_name  ... gc_obo_nom_recordtype_sc_c                       date gc_obo_date_heure_restitution_c
+0                          0087223263           Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2017-12-31T11:45:16+00:00                             NaN
+1                          0087223263  Porte-monnaie / portefeuille, argent, titres               Lille Europe  ...               Objet trouvé  2017-12-31T08:35:34+00:00                             NaN
+2                          0087223263      Pièces d'identités et papiers personnels               Lille Europe  ...               Objet trouvé  2017-12-31T08:28:26+00:00                             NaN
+3                          0087223263  Porte-monnaie / portefeuille, argent, titres               Lille Europe  ...               Objet trouvé  2017-12-31T08:05:06+00:00                             NaN
+4                          0087223263           Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2017-12-31T07:58:14+00:00       2017-12-31T13:30:01+00:00
+...                               ...                                           ...                        ...  ...                        ...                        ...                             ...
+3000                       0087223263      Pièces d'identités et papiers personnels               Lille Europe  ...               Objet trouvé  2019-01-02T06:37:57+00:00                             NaN
+3001                       0087223263           Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2019-01-01T15:08:40+00:00                             NaN
+3002                       0087223263           Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2019-01-01T11:18:03+00:00                             NaN
+3003                       0087223263                         Vêtements, chaussures               Lille Europe  ...               Objet trouvé  2019-01-01T06:32:43+00:00                             NaN
+3004                       0087223263                             Articles médicaux               Lille Europe  ...               Objet trouvé  2019-01-01T06:29:25+00:00                             NaN
+
+[11983 rows x 7 columns]
+2023-01-04 16:51:09,330 Download url :https://ressources.data.sncf.com/api/records/1.0/search/?dataset=objets-trouves-restitution&q=&rows=10000&sort=date&facet=date&facet=gc_obo_type_c&refine.gc_obo_gare_origine_r_name=Lille+Europe&refine.date=2020
+2023-01-04 16:51:09,331 Starting new HTTPS connection (1): ressources.data.sncf.com:443
+2023-01-04 16:51:10,643 https://ressources.data.sncf.com:443 "GET /api/records/1.0/search/?dataset=objets-trouves-restitution&q=&rows=10000&sort=date&facet=date&facet=gc_obo_type_c&refine.gc_obo_gare_origine_r_name=Lille+Europe&refine.date=2020 HTTP/1.1" 200 None
+2023-01-04 16:51:10,683 1526
+2023-01-04 16:51:10,686      gc_obo_gare_origine_r_code_uic_c                                      gc_obo_type_c gc_obo_gare_origine_r_name  ... gc_obo_nom_recordtype_sc_c                       date gc_obo_date_heure_restitution_c
+0                          0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2017-12-31T11:45:16+00:00                             NaN
+1                          0087223263       Porte-monnaie / portefeuille, argent, titres               Lille Europe  ...               Objet trouvé  2017-12-31T08:35:34+00:00                             NaN
+2                          0087223263           Pièces d'identités et papiers personnels               Lille Europe  ...               Objet trouvé  2017-12-31T08:28:26+00:00                             NaN
+3                          0087223263       Porte-monnaie / portefeuille, argent, titres               Lille Europe  ...               Objet trouvé  2017-12-31T08:05:06+00:00                             NaN
+4                          0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2017-12-31T07:58:14+00:00       2017-12-31T13:30:01+00:00
+...                               ...                                                ...                        ...  ...                        ...                        ...                             ...
+1521                       0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2020-01-03T11:08:06+00:00       2020-01-03T11:16:07+00:00
+1522                       0087223263                 Clés, porte-clés, badge magnétique               Lille Europe  ...               Objet trouvé  2020-01-02T15:04:00+00:00                             NaN
+1523                       0087223263  Appareils électroniques, informatiques, appare...               Lille Europe  ...               Objet trouvé  2020-01-02T08:19:12+00:00       2020-01-02T16:05:17+00:00
+1524                       0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2020-01-02T07:11:23+00:00       2020-01-25T13:25:33+00:00
+1525                       0087223263       Porte-monnaie / portefeuille, argent, titres               Lille Europe  ...               Objet trouvé  2020-01-01T18:13:48+00:00                             NaN
+
+[13509 rows x 7 columns]
+2023-01-04 16:51:10,692 Download url :https://ressources.data.sncf.com/api/records/1.0/search/?dataset=objets-trouves-restitution&q=&rows=10000&sort=date&facet=date&facet=gc_obo_type_c&refine.gc_obo_gare_origine_r_name=Lille+Europe&refine.date=2021
+2023-01-04 16:51:10,693 Starting new HTTPS connection (1): ressources.data.sncf.com:443
+2023-01-04 16:51:12,004 https://ressources.data.sncf.com:443 "GET /api/records/1.0/search/?dataset=objets-trouves-restitution&q=&rows=10000&sort=date&facet=date&facet=gc_obo_type_c&refine.gc_obo_gare_origine_r_name=Lille+Europe&refine.date=2021 HTTP/1.1" 200 None
+2023-01-04 16:51:12,068 1915
+2023-01-04 16:51:12,071      gc_obo_gare_origine_r_code_uic_c                                      gc_obo_type_c gc_obo_gare_origine_r_name  ... gc_obo_nom_recordtype_sc_c                       date gc_obo_date_heure_restitution_c
+0                          0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2017-12-31T11:45:16+00:00                             NaN
+1                          0087223263       Porte-monnaie / portefeuille, argent, titres               Lille Europe  ...               Objet trouvé  2017-12-31T08:35:34+00:00                             NaN
+2                          0087223263           Pièces d'identités et papiers personnels               Lille Europe  ...               Objet trouvé  2017-12-31T08:28:26+00:00                             NaN
+3                          0087223263       Porte-monnaie / portefeuille, argent, titres               Lille Europe  ...               Objet trouvé  2017-12-31T08:05:06+00:00                             NaN
+4                          0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2017-12-31T07:58:14+00:00       2017-12-31T13:30:01+00:00
+...                               ...                                                ...                        ...  ...                        ...                        ...                             ...
+1910                       0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2021-01-03T11:38:45+00:00       2021-01-05T16:46:30+00:00
+1911                       0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2021-01-03T10:50:08+00:00       2021-01-03T12:41:26+00:00
+1912                       0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2021-01-03T10:08:08+00:00       2021-01-03T12:08:09+00:00
+1913                       0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2021-01-02T11:44:23+00:00       2021-01-11T09:41:54+00:00
+1914                       0087223263  Appareils électroniques, informatiques, appare...               Lille Europe  ...               Objet trouvé  2021-01-02T11:13:02+00:00       2021-01-02T13:34:01+00:00
+
+[15424 rows x 7 columns]
+2023-01-04 16:51:12,077 Download url :https://ressources.data.sncf.com/api/records/1.0/search/?dataset=objets-trouves-restitution&q=&rows=10000&sort=date&facet=date&facet=gc_obo_type_c&refine.gc_obo_gare_origine_r_name=Lille+Europe&refine.date=2022
+2023-01-04 16:51:12,078 Starting new HTTPS connection (1): ressources.data.sncf.com:443
+2023-01-04 16:51:13,858 https://ressources.data.sncf.com:443 "GET /api/records/1.0/search/?dataset=objets-trouves-restitution&q=&rows=10000&sort=date&facet=date&facet=gc_obo_type_c&refine.gc_obo_gare_origine_r_name=Lille+Europe&refine.date=2022 HTTP/1.1" 200 None
+2023-01-04 16:51:14,079 2645
+2023-01-04 16:51:14,083      gc_obo_gare_origine_r_code_uic_c                                      gc_obo_type_c gc_obo_gare_origine_r_name  ... gc_obo_nom_recordtype_sc_c                       date gc_obo_date_heure_restitution_c
+0                          0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2017-12-31T11:45:16+00:00                             NaN
+1                          0087223263       Porte-monnaie / portefeuille, argent, titres               Lille Europe  ...               Objet trouvé  2017-12-31T08:35:34+00:00                             NaN
+2                          0087223263           Pièces d'identités et papiers personnels               Lille Europe  ...               Objet trouvé  2017-12-31T08:28:26+00:00                             NaN
+3                          0087223263       Porte-monnaie / portefeuille, argent, titres               Lille Europe  ...               Objet trouvé  2017-12-31T08:05:06+00:00                             NaN
+4                          0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2017-12-31T07:58:14+00:00       2017-12-31T13:30:01+00:00
+...                               ...                                                ...                        ...  ...                        ...                        ...                             ...
+2640                       0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2022-01-01T07:52:47+00:00       2022-01-11T12:07:53+00:00
+2641                       0087223263  Appareils électroniques, informatiques, appare...               Lille Europe  ...               Objet trouvé  2022-01-01T07:24:45+00:00       2022-01-01T13:23:08+00:00
+2642                       0087223263  Appareils électroniques, informatiques, appare...               Lille Europe  ...               Objet trouvé  2022-01-01T07:11:13+00:00       2022-01-08T08:08:26+00:00
+2643                       0087223263  Appareils électroniques, informatiques, appare...               Lille Europe  ...               Objet trouvé  2022-01-01T07:03:34+00:00       2022-01-22T11:23:48+00:00
+2644                       0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2022-01-01T06:57:57+00:00       2022-01-02T14:00:21+00:00
+
+[18069 rows x 7 columns]
+2023-01-04 16:51:14,089 Download url :https://ressources.data.sncf.com/api/records/1.0/search/?dataset=objets-trouves-restitution&q=&rows=10000&sort=date&facet=date&facet=gc_obo_type_c&refine.gc_obo_gare_origine_r_name=Lille+Europe&refine.date=2023
+2023-01-04 16:51:14,090 Starting new HTTPS connection (1): ressources.data.sncf.com:443
+2023-01-04 16:51:14,395 https://ressources.data.sncf.com:443 "GET /api/records/1.0/search/?dataset=objets-trouves-restitution&q=&rows=10000&sort=date&facet=date&facet=gc_obo_type_c&refine.gc_obo_gare_origine_r_name=Lille+Europe&refine.date=2023 HTTP/1.1" 200 None
+2023-01-04 16:51:14,400 24
+2023-01-04 16:51:14,406    gc_obo_gare_origine_r_code_uic_c                                      gc_obo_type_c gc_obo_gare_origine_r_name  ... gc_obo_nom_recordtype_sc_c                       date gc_obo_date_heure_restitution_c
+0                        0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2017-12-31T11:45:16+00:00                             NaN
+1                        0087223263       Porte-monnaie / portefeuille, argent, titres               Lille Europe  ...               Objet trouvé  2017-12-31T08:35:34+00:00                             NaN
+2                        0087223263           Pièces d'identités et papiers personnels               Lille Europe  ...               Objet trouvé  2017-12-31T08:28:26+00:00                             NaN
+3                        0087223263       Porte-monnaie / portefeuille, argent, titres               Lille Europe  ...               Objet trouvé  2017-12-31T08:05:06+00:00                             NaN
+4                        0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2017-12-31T07:58:14+00:00       2017-12-31T13:30:01+00:00
+..                              ...                                                ...                        ...  ...                        ...                        ...                             ...
+19                       0087223263  Appareils électroniques, informatiques, appare...               Lille Europe  ...               Objet trouvé  2023-01-02T05:56:37+00:00       2023-01-02T16:07:54+00:00
+20                       0087223263           Pièces d'identités et papiers personnels               Lille Europe  ...               Objet trouvé  2023-01-01T17:28:30+00:00                             NaN
+21                       0087223263  Appareils électroniques, informatiques, appare...               Lille Europe  ...               Objet trouvé  2023-01-01T14:58:24+00:00                             NaN
+22                       0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2023-01-01T07:03:54+00:00       2023-01-01T07:11:10+00:00
+23                       0087223263                Bagagerie: sacs, valises, cartables               Lille Europe  ...               Objet trouvé  2023-01-01T06:56:46+00:00                             NaN
+
+[18093 rows x 7 columns]
